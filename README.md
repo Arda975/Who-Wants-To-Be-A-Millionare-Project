@@ -1,2 +1,1 @@
-# Who-Wants-To-Be-A-Millionare-Project
-I made a Who Wants To Be A Millionare project in java.
+Integrate the Enigma file into your java project document and then use it.
